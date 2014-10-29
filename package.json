@@ -1,25 +1,30 @@
 {
-  "name": "ponify",
-  "version": "0.1.0",
-  "description": "A small utility for converting certain strings to pony phrases or words.",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://hprofit@bitbucket.org/hprofit/ponify.git"
-  },
-  "keywords": [
-    "pony",
-    "mlp",
-    "my little pony",
-    "ponify"
-  ],
-  "author": "Holden Profit <holdenprofit@gmail.com> (https://github.com/hprofit/)",
-  "license": "ISC",
-  "devDependencies": {
-    "mocha": "^2.0.1",
-    "chai": "^1.9.2"
-  }
+    "name": "ponify",
+    "version": "0.1.0",
+    "description": "A small utility for converting certain strings to pony phrases or words.",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hprofit/Ponify.git"
+    },
+    "keywords": [
+        "pony",
+        "mlp",
+        "my little pony",
+        "ponify"
+    ],
+    "author": "Holden Profit <holdenprofit@gmail.com> (https://github.com/hprofit/)",
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/hprofit/Ponify/blob/master/LICENSE-MIT"
+        }
+    ],
+    "devDependencies": {
+        "mocha": "^2.0.1",
+        "chai": "^1.9.2"
+    }
 }
